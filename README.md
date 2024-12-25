@@ -3,7 +3,9 @@ This project demonstrates an Automatic Street Light System using Arduino, which 
 
 Features:-
 Automatically controls street lights based on ambient light levels.
+
 Low-cost implementation using readily available materials like cardboard and basic electronic components.
+
 Powered by Arduino, making it programmable and customizable.
 
 
